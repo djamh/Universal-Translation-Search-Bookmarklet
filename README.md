@@ -1,6 +1,11 @@
 # Universal-Translation-Search-Bookmarklet
 Bookmarklet for Yapla translation pages that loads all paginated entries and enables fast client-side search across features, keys, and translation values. Designed to quickly locate strings in large translation tables without navigating page by page.
 
+Use this url in your bookmark : javascript:(function(){const s=document.createElement('script');s.src='https://cdn.jsdelivr.net/gh/djamh/Universal-Translation-Search-Bookmarklet@main/search-translation.js?v=%27+Date.now();document.head.appendChild(s);})();
+
+To get the latest version, you can purge the cdn using this : https://www.jsdelivr.com/tools/purge
+
+
 ##Description
 
 A lightweight browser bookmarklet that enables full-text search across all pages of a paginated translation table.
