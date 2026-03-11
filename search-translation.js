@@ -327,7 +327,7 @@ style="width:100%;padding:10px;border:1px solid #bbb;border-radius:8px;margin-bo
 
 <div style="margin-top:10px;text-align:right;font-size:11px;color:#6b6b6b;font-style:italic;letter-spacing:1px;border-top:1px dashed #c9c9c9;padding-top:6px;">
 
-Developed by Thiago
+Developed by Djamal
 
 </div>
 
